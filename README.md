@@ -1,0 +1,1 @@
+# nextJS_CRUD_supabase_dynamicRoute
